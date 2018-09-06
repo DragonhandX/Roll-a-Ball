@@ -703,19 +703,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4677163630440336, guid: e0a1674e494b85743bc9e375cd43e199, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 0.50000006
-      objectReference: {fileID: 0}
-    - target: {fileID: 4677163630440336, guid: e0a1674e494b85743bc9e375cd43e199, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.50000024
-      objectReference: {fileID: 0}
-    - target: {fileID: 23196556902358090, guid: e0a1674e494b85743bc9e375cd43e199,
-        type: 2}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 438ad8be15fab0040b9ef745aa43e4ca, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0a1674e494b85743bc9e375cd43e199, type: 2}
   m_IsPrefabParent: 0
@@ -1328,7 +1315,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!135 &1883211866
 SphereCollider:
   m_ObjectHideFlags: 0
